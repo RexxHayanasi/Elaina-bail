@@ -1,7 +1,7 @@
 {
-  "name": "@kangfarrel/felzar-baileys",
+  "name": "@cifumo/emi-Bail",
   "version": "7.0.2",
-  "description": "WhatsApp API Modification By Frrlz",
+  "description": "WhatsApp API Modification By Cifumo",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/kangfarrel/felzar-baileys",
+  "homepage": "https://github.com/cifumo/emi-Bail",
   "repository": {
-    "url": "git@github.com:kangfarrel/felzar-baileys.git"
+    "url": "git@github.com:cifumo/emi-Bail.git"
   },
   "license": "MIT",
-  "author": "@kangfarrel",
+  "author": "@cifumo",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
