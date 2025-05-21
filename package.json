@@ -1,7 +1,7 @@
 {
-  "name": "@cifumo/emi-Bail",
+  "name": "@rexxhayanasi/elaina-bail",
   "version": "7.0.2",
-  "description": "WhatsApp API Modification By Cifumo",
+  "description": "WhatsApp API Modification By Rexx Hayanasi",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/cifumo/emi-Bail",
+  "homepage": "https://github.com/rexxhayanasi/elaina-bail",
   "repository": {
-    "url": "git@github.com:cifumo/emi-Bail.git"
+    "url": "git@github.com:rexxhayanasi/elaina-bail.git"
   },
   "license": "MIT",
-  "author": "@cifumo",
+  "author": "@RexxHayanasi",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
