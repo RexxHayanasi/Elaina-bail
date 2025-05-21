@@ -1,4 +1,4 @@
-# Baileys - Typescript/Javascript WhatsApp Web API
+# Baileys - Typescript/Javascript For Web API WHATSAPP 
 
 ### Important Note
 
