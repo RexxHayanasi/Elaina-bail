@@ -1,6 +1,6 @@
 {
   "name": "@rexxhayanasi/elaina-bail",
-  "version": "7.0.2",
+  "version": "1.0.8",
   "description": "WhatsApp API Modification By Rexx Hayanasi",
   "keywords": [
     "whatsapp",
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/rexxhayanasi/elaina-bail",
+  "homepage": "https://github.com/rexxhayanasi/Elaina-bail",
   "repository": {
-    "url": "git@github.com:rexxhayanasi/elaina-bail.git"
+    "url": "git@github.com:rexxhayanasi/Elaina-bail.git"
   },
   "license": "MIT",
   "author": "@RexxHayanasi",
